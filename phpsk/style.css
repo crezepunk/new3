@@ -1,0 +1,94 @@
+body {
+            background: #000000;
+            color: #000000;
+            font-family: Trebuchet MS, Arial, Times New Roman;
+            font-size: 12px;
+}
+ 
+#container {
+            background: #FFFFFF;
+            margin: 30px auto;
+            width: 900px;
+            height: 1000px;
+}
+ 
+#header {
+   	    background: #838283;
+	    background-image: url(images/logo.jpg); 
+	    height: 200px;
+            width: 900px;
+}
+ 
+#menu {
+            background: #000000;
+            float: left;
+            width: 200px;
+            height: 600px;
+}
+ 
+#menu2 {
+	    background: #000000;
+            float: right;
+            width: 200px;
+            height: 600px;
+}
+
+#m11{
+            background: #d2d0d2;
+	    background-image: url(images/champs.jpg);
+            width: 200px;
+            height: 200px;
+}
+
+#m12{
+            background: #BDB3B3;
+            width: 200px;
+            height: 200px;
+}
+
+#m13{
+            background: #C1BDBD;
+	    background-image: url(images/PPV.jpg);
+            width: 200px;
+            height: 200px;
+}
+
+#m21{
+            background: #d2d0d2;
+	    background-image: url(images/m21.jpg);
+            width: 200px;
+            height: 200px;
+}
+
+#m22{
+            background: #d2d0d2;
+	    background-image: url(images/m22.jpg);
+            width: 200px;
+            height: 200px;
+}
+
+#m23{
+            background: #d2d0d2;
+	    background-image: url(images/m23.jpg);
+            width: 200px;
+            height: 200px;
+}
+
+#content {
+            background: #000000;
+            float: center;
+            width: 700px;
+            height: 600px;
+}
+ 
+#clear {
+            clear:both;
+}
+ 
+#footer {
+            background: #838283;
+            background-image: url(images/dd.jpg);
+	    height: 200px;
+            width: 900px;
+}
+
